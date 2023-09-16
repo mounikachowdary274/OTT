@@ -1,1 +1,1 @@
-# ott-platform-website
+# ott
